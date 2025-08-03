@@ -3,13 +3,11 @@ A Jupyter Notebook demonstrating advanced data visualization techniques in Pytho
 
 This repository contains a Jupyter Notebook demonstrating various advanced data visualization techniques using Python. The project is developed as part of the **Presffor Python** program and highlights best practices for visual storytelling with data.
 
----
 
 ## 📁 File Included
 
 - `Task_01.ipynb` — Main notebook showcasing advanced plotting techniques.
 
----
 
 ## 🎯 Objectives
 
@@ -18,8 +16,6 @@ This repository contains a Jupyter Notebook demonstrating various advanced data 
 - Improve plot aesthetics and clarity using Python libraries
 - Practice dynamic, informative, and publication-ready graphs
 
----
-
 ## 🧰 Libraries Used
 
 - **Pandas** — Data handling
@@ -27,7 +23,6 @@ This repository contains a Jupyter Notebook demonstrating various advanced data 
 - **Seaborn** — High-level statistical plots
 - **NumPy** — Numerical operations
 
----
 
 ## 🚀 How to Run
 
